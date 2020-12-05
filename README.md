@@ -1,5 +1,5 @@
 <h1 align="center" style="position: relative;">
-    <img width="200" style="border-radius: 50%;" src="./images/logos/jantick-logo-black"/><br>
+    <img width="200" style="border-radius: 50%;" src="./images/logos/jantick-logo-black.png"/><br>
     Jantick Branding
 </h1>
 
