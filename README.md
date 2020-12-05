@@ -13,25 +13,27 @@
 
 # Table of Contents
 
- *1. Jantick Branding
- 2. Branding Rules & Regulations
- 3. Finding Your Way Around 
- 4. Extra Information*
+ *1. Jantick Branding <br />
+ 2. Branding Rules & Regulations <br />
+ 3. Finding Your Way Around <br />
+ 4. Extra Information* <br />
 
 ## Jantick Branding
-Welcome to the official GitHub repo for for Jantick Technologies branding/media pack. This repository contains all logo marks, advertisements and any branding images that are and or is associated with the Jantick Brand. 
+Welcome to the official GitHub repo for for Jantick Technologies branding/media pack. This repository contains all logo marks, advertisements and any branding images that are and or is associated with the Jantick Brand. <br />
 
-These images can be used for any projects that are associated with the Jantick Technologies brand including its parent company and any other branches that are associated with Jantick. 
+These images can be used for any projects that are associated with the Jantick Technologies brand including its parent company and any other branches that are associated with Jantick. <br />
 
-To use any of these images for commerical use you must contact one of our marketing manages via email by emailing us at marketing@jantick.com 
+To use any of these images for commerical use you must contact one of our marketing manages via email by emailing us: 
+
+- marketing@jantick.com
 
 
 ## Branding Rules & Regulations 
-When using any of our logos or branding you musyt obide and follow these rules to esnure our brand keeps it look via any images that include our logo or owned by Jantick Technologies. 
+When using any of our logos or branding you musyt obide and follow these rules to esnure our brand keeps it look via any images that include our logo or owned by Jantick Technologies. <br />
 
-Do not change, minipulate or edit any branding images and or including the logo to a poitn where the logo is not easily reconisable by a member of the public. This rule is set in place to ensure the proper use of our logo so that members of the public can see Jantick Tehnologies for what it is and what we do. 
+Do not change, minipulate or edit any branding images and or including the logo to a poitn where the logo is not easily reconisable by a member of the public. This rule is set in place to ensure the proper use of our logo so that members of the public can see Jantick Tehnologies for what it is and what we do. <br />
 
-Do not take credit for any branding images that are made and or owned by us as this will result you legal regulations as Jantick Technologies branding images are protcted under the law. 
+Do not take credit for any branding images that are made and or owned by us as this will result you legal regulations as Jantick Technologies branding images are protcted under the law. <br />
 
 
 
